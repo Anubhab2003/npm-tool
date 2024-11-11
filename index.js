@@ -1,4 +1,4 @@
-function greet(){
+function cramtx(){
     console.log('Hello Users');
 }
-export default greet
+export default cramtx

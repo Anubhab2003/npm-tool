@@ -1,6 +1,6 @@
 {
   "name": "cramtx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It will greet NPM users",
   "main": "index.js",
   "type":"module",

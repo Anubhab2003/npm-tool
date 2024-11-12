@@ -12,4 +12,4 @@ async function cramtx() {
   });
 }
 
-cramtx(); // Execute the function
+export default cramtx;

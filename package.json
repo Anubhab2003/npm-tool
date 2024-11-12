@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "It will greet NPM users",
   "main": "index.js",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Anubhab2003/npm-tool/issues"
   },
-  "homepage": "https://github.com/Anubhab2003/npm-tool#readme"
+  "homepage": "https://github.com/Anubhab2003/npm-tool#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
 }
